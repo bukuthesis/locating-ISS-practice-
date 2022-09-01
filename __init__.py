@@ -17,3 +17,5 @@ print(df)
 fig = px.scatter_geo(df, lat='latitude',
                      lon='longitude')
 fig.show()
+
+http://127.0.0.1:50960/
